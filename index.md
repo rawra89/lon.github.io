@@ -6,9 +6,7 @@ layout: home
 title: Welcome to the League of Nations
 ---
 
-TODO: add an image to replace the top right title
-
-TODO: write a very small description here and link to about us page
+Welcome to The League of Nations website! We are an inter-governmental organisation that strives for world peace. After the Great War, the former US president Woodrow Wilson first proposed what would be known as the League of Nations in his famous 14 Points speech. Established in 1920, the League of Nations set out to uphold the values expressed in this speech.
 
 TODO: This is the main news page. 
 
