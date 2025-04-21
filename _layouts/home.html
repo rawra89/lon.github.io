@@ -34,15 +34,16 @@ layout: default
 
         <article class="post-preview">
           <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">
-            <h2 class="post-title">{{ post.title }}</h2>
+            <h2 class="post-title header-center">{{ post.title }}</h2>
             {% if post.subtitle %}
-            <h3 class="post-subtitle">{{ post.subtitle }}</h3>
+            <h3 class="post-subtitle header-center">{{ post.subtitle }}</h3>
             {% else %}
-            <h3 class="post-subtitle">{{ post.excerpt | strip_html | truncatewords: 15 }}</h3>
+            <h3 class="post-subtitle header-center">{{ post.excerpt | strip_html | truncatewords: 15 }}</h3>
             {% endif %}
           </a>
-          <p class="post-meta">Posted by
+          <p class="post-meta" style="text-align: center;">Posted 
             {% if post.author %}
+            by
             {{ post.author }}
             {% else %}
             {{ site.author }}

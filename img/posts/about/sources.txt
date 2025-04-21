@@ -1,0 +1,13 @@
+lon_title_img.jpg: https://archives.ungeneva.org/conference-internationale-pour-le-controle-des-armes-geneve-1932-486-490-3
+lon_dove.jpg: https://www.worthpoint.com/worthopedia/vintage-1925-punch-cartoon-bulgaria-2069768818
+War of the Stray Dog sources: 
+    https://trove.nla.gov.au/newspaper/article/45913050
+    https://trove.nla.gov.au/newspaper/article/48020269
+    https://trove.nla.gov.au/newspaper/article/98041137
+    https://trove.nla.gov.au/newspaper/article/2157387
+greek-wounded.jpg: https://en.wikipedia.org/wiki/Battle_of_the_Sakarya#/media/File:GreekWoundedRecovery.jpg
+Sir Eric Drummond picture: https://en.wikipedia.org/wiki/Eric_Drummond,_7th_Earl_of_Perth#/media/File:Sir_Eric_Drummond_circa_1918.jpg
+flag of LON: https://en.wikipedia.org/wiki/League_of_Nations#/media/File:Flag_of_the_League_of_Nations_(1939).svg
+emblem of LON: https://en.wikipedia.org/wiki/League_of_Nations#/media/File:Emblem_of_the_League_of_Nations_(1939).svg
+Robert Cecil: https://en.wikipedia.org/wiki/Robert_Cecil,_1st_Viscount_Cecil_of_Chelwood#/media/File:Robert_Cecil,_1st_Viscount_Cecil_of_Chelwood_looking_right_circa_1915.jpg
+Jan Smuts: https://en.wikipedia.org/wiki/Jan_Smuts#/media/File:Genl_JC_Smuts.jpg
