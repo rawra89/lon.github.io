@@ -33,4 +33,4 @@ Italy Admits "Tactical" Air Raids South of Aduwa, Ethiopia.:
 “Italy Admits 'Tactical' Air Raids South of Aduwa, Ethiopia.” United Press International, October 4, 1935. Digitized. [https://www.upi.com/Archives/1935/10/04/Italy-admits-tactical-air-raids-south-of-Aduwa-Ethiopia/8727431013801/](https://www.upi.com/Archives/1935/10/04/Italy-admits-tactical-air-raids-south-of-Aduwa-Ethiopia/8727431013801/).
 
 Italy Leaves the League:
-“Italy Leaves the League.” The New York Times, December 13, 1937. Scanned. Page 26. [https://timesmachine.nytimes.com/timesmachine/1937/12/13/118995646.html?pageNumber=26](https://https://timesmachine.nytimes.com/timesmachine/1937/12/13/118995646.html?pageNumber=26).
+“Italy Leaves the League.” The New York Times, December 13, 1937. Scanned. Page 26. [https://timesmachine.nytimes.com/timesmachine/1937/12/13/118995646.html?pageNumber=26](https://timesmachine.nytimes.com/timesmachine/1937/12/13/118995646.html?pageNumber=26).
