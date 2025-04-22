@@ -12,7 +12,8 @@ We are an international assembly that strive to prevent future wars, promotes di
 <hr>
 <div class="figure-block">
     <h3 class="figure-title">Woodrow Wilson</h3>
-    <img class="figure-image" src="/assets/img/posts/about/woodrow_wilson.jpeg" title="Woodrow Wilson" alt="Woodrow Wilson portrait"/>
+
+    <img class="figure-image" src="{{ "/assets/img/posts/about/woodrow_wilson.jpeg" | relative_url }}" title="Woodrow Wilson" alt="Woodrow Wilson portrait"/>
     <p class="figure-desc">One of the drafters for the Covenant of the League of Nations, as well as a proponent for the League of Nations, famously in his 14 Points Speech.</p>
 </div>
 
