@@ -17,8 +17,7 @@ the United States took occasion to state emphatically that its action was in no 
 
 Without the entrance of the United States the League of Nations has gone about its business and has done good in the world.
 
-The threat that such an organization as the League of Nations would contribute to bringing about war has been proved to be but fiction. In 1921 one of the first great accomplishments of the League of Nations was when it stopped a conflict between Yugoslavia and Albania which would have produced another
-Balkan war and contributed to the unrest of the world.
+The threat that such an organization as the League of Nations would contribute to bringing about war has been proved to be but fiction. In 1921 one of the first great accomplishments of the League of Nations was when it stopped a conflict between Yugoslavia and Albania which would have produced another Balkan war and contributed to the unrest of the world.
 
 Later when Turkish troops were over the frontier in Mesopotamia the league council stopped an almost certain war by inducing the Turks to accept a provisional frontier line and an impartial commission of inquiry.
 
@@ -31,9 +30,7 @@ the armies retired and the governments accepted an arbitration of a commission f
     <p class="figure-desc"><i><strong>BALKANDUM AND BALKANDEE<br>"JUST THEN CAME DOWN A MONSTROUS DOVE<br>WHOSE FORCE WAS PURELY MORAL,<br>WHICH TURNED THE HEROES' HEARTS TO LOVE<br>AND MADE THEM DROP THEIR QUARREL"</strong></i><br>- Lewis Carroll (adapted)</p>
 </div>
 
-A most interesting summary of what has been accomplished was given in last Sunday's New York Times magazine, written by Sir Philip Gibbs, who has been present on many of the memorable occasions when achievements toward the perfection of the League were accomplished. A most important chapter in the story of what the League of Nations has done up to date deals with the financial reconstruction of Austria. This was the first experiment in the recovery of Europe by international cooperation.
-Austria was saved from the misery and disease which had left a stricken nation after the
-war. The league, which had raised a loan of $27,000,000 for Austria, raised another loan of $10,000,000 for Hungary. 
+A most interesting summary of what has been accomplished was given in last Sunday's New York Times magazine, written by Sir Philip Gibbs, who has been present on many of the memorable occasions when achievements toward the perfection of the League were accomplished. A most important chapter in the story of what the League of Nations has done up to date deals with the financial reconstruction of Austria. This was the first experiment in the recovery of Europe by international cooperation. Austria was saved from the misery and disease which had left a stricken nation after the war. The league, which had raised a loan of $27,000,000 for Austria, raised another loan of $10,000,000 for Hungary. 
 
 In 1924 the league went to the rescue of Greek refugees. After the victory of Mutapha Kemal Pasha a million Greek refugees had been forced out of their homes. The league, supported by philanthropic societies, made provision so that these people could be saved, housed, clothed and fed.
 

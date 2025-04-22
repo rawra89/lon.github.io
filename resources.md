@@ -7,10 +7,10 @@ title: Resources
 ---
 
 ## Work Cited
+
 The Covenant of the League of Nations:
 United Nations. The Covenant of the League of Nations. 1920. https://treaties.un.org/doc/source/covenant.pdf.
 
-## News Posts Citations
 Germany Elected to League and Council by Unanimous Vote as Assembly Cheers, Geneva Still Hopeful Spain Won’t Quit.:
 James, Edwin L. "Germany Elected to League and Council by Unanimous Vote as Assembly Cheers, Geneva Still Hopeful Spain Won’t Quit." The New York Times, September 9, 1926, https://timesmachine.nytimes.com/timesmachine/1926/09/09/issue.html.
 
