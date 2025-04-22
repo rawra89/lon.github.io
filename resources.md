@@ -5,3 +5,6 @@
 layout: page
 title: Resources
 ---
+
+# Work Cited
+

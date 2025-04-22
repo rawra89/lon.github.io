@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "League of Nations - Germany's Membership"
+title:  "Germany's Membership"
 date:   1926-02-11 12:45:22 -0400
 categories: post
 description: "Germany and its membership"

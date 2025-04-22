@@ -4,9 +4,13 @@ title: About Us
 permalink: /about/
 ---
 
-## Background
+## What is the League of Nations?
 
-The League of Nations is an inter-governmental organisation that strives for world peace. After the World War, many countries were left weakened and found it difficult to transition back to peace time operations. Drafted by President Woodrow Wilson, Lord Robert Cecil, and Jan Smuts, the [Covenant of the League of Nations](/post/1920/02/01/covenant-of-lon.html) would help transpire what would become the League of Nations.
+The League of Nations is an intergovernmental organisation that strives for world peace. After the World War, many countries were left weakened and found it difficult to transition back to peace time operations. Drafted by President Woodrow Wilson, Lord Robert Cecil, and Jan Smuts, the [Covenant of the League of Nations](/post/1920/02/01/covenant-of-lon.html), signed as part of the Treaty of Versailles, would eventually establish the League of Nations. 
+
+## What do we stand for?
+
+We believe in world peace, and the end of all wars 
 
 
 <h2 class="header-center">Important People</h2>
@@ -14,7 +18,7 @@ The League of Nations is an inter-governmental organisation that strives for wor
 <div class="figure-block">
     <h3 class="figure-title">Woodrow Wilson</h3>
     <img class="figure-image" src="../../img/posts/about/woodrow_wilson.jpeg" title="Woodrow Wilson" alt="Woodrow Wilson portrait"/>
-    <p class="figure-desc">One of the drafters for the Covenant of the League of Nations, as well as a proponent for the League of Nations, famously in his 14 Points Speech</p>
+    <p class="figure-desc">One of the drafters for the Covenant of the League of Nations, as well as a proponent for the League of Nations, famously in his 14 Points Speech.</p>
 </div>
 
 <div class="figure-block">
