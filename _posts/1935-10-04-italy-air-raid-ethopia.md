@@ -6,9 +6,8 @@ categories: post
 description: ""
 ---
 
-Digitized newspaper article written when the company was known as UP - written by STEWART BROWN: https://www.upi.com/Archives/1935/10/04/Italy-admits-tactical-air-raids-south-of-Aduwa-Ethiopia/8727431013801/
-
-ROME, Oct. 4, 1935 (UP) -- "Tactical" airplane raids over an area 50 miles to the south of Aduwa in Ethiopia were admitted today in an official communiqué.
+## ROME, Oct. 4, 1935 (UP) -
+"Tactical" airplane raids over an area 50 miles to the south of Aduwa in Ethiopia were admitted today in an official communiqué.
 
 A general advance of the army in the north was resumed at dawn, it was announced, and the morale of the invading troops was reported excellent.
 

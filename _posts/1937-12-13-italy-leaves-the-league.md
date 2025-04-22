@@ -6,9 +6,7 @@ categories: post
 description: ""
 ---
 
-New York Times, 
-
-## ITALY LEAVES THE LEAGUE
+## Italy Leaves the League
 
 Coming after three days of elaborate staging, Mussolini's fervid announcement last Saturday night of Italy's withdrawal from the League of Nations was almost an anti-climax. World opinion, which had been told in loud official whispers of an impending epochal event, was a little let down when it learned that the anticipated decision of the Fascist Grand Council to quit the "tottering temple" at Geneva was not coupled with some other more startling move. Even the Fascists who filled the Piazza Venezia are reported to have shown less than the usual enthusiasm occasions.
 

@@ -5,9 +5,8 @@ date:   2500-01-12 12:45:22 -0400
 categories: post
 description: ""
 ---
-Transcribed from newspaper name goes here
-https://www.newspapers.com/article/the-lexington-herald-editorial-supportin/63541098/
 
+## The League of Nations
 When the League of Nations commemorated Friday its tenth anniversary, worldwide attention was attracted to the achievements of this organization of nations formed for the purpose of promoting world peace, concord among the nations and the welfare of humanity.
 
 The League of Nations can no longer be judged either in the promises or threats uttered in international conference chambers or in the halls of parliament.
@@ -26,7 +25,7 @@ the armies retired and the governments accepted an arbitration of a commission f
 
 <div class="figure-block">
     <h3 class="figure-title">PUNCH, OR THE LONDON CHARIVARI - NOVEMBER 11, 1925</h3>
-    <img class="figure-image" src="/img/posts/about/lon_dove.jpg" title="War of the Stray Dog" alt="People with sashes on their shields saying Greece and Bulgaria respectively being attacked by a dove wearing a sash with the words League of Nations on it"/>
+    <img class="figure-image" src="{{site.baseurl}}/assets/img/posts/about/lon_dove.jpg" title="War of the Stray Dog" alt="People with sashes on their shields saying Greece and Bulgaria respectively being attacked by a dove wearing a sash with the words League of Nations on it"/>
     <p class="figure-desc"><i><strong>BALKANDUM AND BALKANDEE<br>"JUST THEN CAME DOWN A MONSTROUS DOVE<br>WHOSE FORCE WAS PURELY MORAL,<br>WHICH TURNED THE HEROES' HEARTS TO LOVE<br>AND MADE THEM DROP THEIR QUARREL"</strong></i><br>- Lewis Carroll (adapted)</p>
 </div>
 
@@ -36,7 +35,7 @@ In 1924 the league went to the rescue of Greek refugees. After the victory of Mu
 
 <div class="figure-block">
     <h3 class="figure-title"></h3>
-    <img class="figure-image" src="/img/posts/about/greek-wounded.jpg" title="Wounded Greek Soldiers" alt="Wounded Greek soldiers on the battlefield"/>
+    <img class="figure-image" src="{{site.baseurl}}/assets/img/posts/about/greek-wounded.jpg" title="Wounded Greek Soldiers" alt="Wounded Greek soldiers on the battlefield"/>
     <p class="figure-desc">WOUNDED GREEK SOLDIERS ON THE BATTLEFIELD</p>
 </div>
 

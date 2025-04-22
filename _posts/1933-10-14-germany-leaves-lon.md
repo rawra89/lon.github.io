@@ -6,9 +6,8 @@ categories: post
 description: ""
 ---
 
-Digitized newspaper article written when the company was known as UP - written by unknown: https://www.upi.com/Archives/1933/10/14/Germany-withdraws-from-League-of-Nations-disarmament-pact/5411430087122/
-
 ## BERLIN, Oct. 14, 1933 (UP) - 
+
 Germany, angry and steeling herself to any consequences, announced today her withdrawal from the League of Nations and the World Disarmament Conference.
 
 At the same time she announced her willingness to destroy her last machine gun and demobilize her last soldier if other nations would do likewise.

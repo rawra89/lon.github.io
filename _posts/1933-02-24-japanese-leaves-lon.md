@@ -6,9 +6,6 @@ categories: post
 description: ""
 ---
 
-Digitized newspaper article written when the company was known as UP - written by Stewart Brown
-https://www.upi.com/Archives/1933/02/24/Japan-stuns-world-withdraws-from-league/2231840119817/
-
 ## GENEVA, Feb. 24, 1933 (UP) - 
 The Japanese delegation, defying world opinion, withdrew from the League of Nations Assembly today after the assembly had adopted a report blaming Japan for events in Manchuria.
 

@@ -6,8 +6,6 @@ categories: post
 description: ""
 ---
 
-Digitized newspaper article written when the company was known as UP - written by Martin Sommers: https://www.upi.com/Archives/1931/09/21/Japan-pushes-troops-into-Manchuria-Chinese-flee/8811351203749/
-
 ## KOWPANGTZE, Manchuria, Sept. 21, 1931
 Japanese troops were in control of all railways and telegraph lines within a hundred miles of Mukden today and Chinese residents are evacuating toward Peiping in panic.
 

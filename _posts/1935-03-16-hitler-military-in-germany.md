@@ -6,10 +6,7 @@ categories: post
 description: ""
 ---
 
-Digitized newspaper article written when the company was known as UP - written by unknown:https://www.upi.com/Archives/1935/03/16/Hitler-orders-military-conscription-in-Germany/5124911384073/
-
 # BERLIN, March 16, 1935 (UP) - 
-
 Reichsfuehrer Hitler, in a sudden, breath-taking announcement, today denounced the military clauses of the Versailles Treaty and proclaimed immediate general military conscription in Germany.
 
 Germany's denunciation of the treaty clause and institution of universal military service rocked Europe, already tense with the increasing momentum of an arms race among the chief powers. France and Great Britain already had moved this week toward increased armed strength.
