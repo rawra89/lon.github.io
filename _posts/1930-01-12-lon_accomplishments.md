@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "The League of Nations and Its Accomplishments"
-date:   1930-01-12 12:45:22 -0400
+date:   2500-01-12 12:45:22 -0400
 categories: post
-description: "10th Anniversary"
+description: ""
 ---
 Transcribed from newspaper name goes here
 https://www.newspapers.com/article/the-lexington-herald-editorial-supportin/63541098/

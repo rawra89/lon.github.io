@@ -13,14 +13,16 @@ layout: default
       <div class="row">
         <div class="col-lg-8 col-md-10 mx-auto">
           <div class="post-heading">
-            <h1>{{ page.title }}</h1>
+            <h1 class="header-center">{{ page.title }}</h1>
             {% if page.subtitle %}
             <h2 class="subheading">{{ page.subtitle }}</h2>
             {% endif %}
-            <span class="meta">Posted by
-              <a href="#">{% if page.author %}{{ page.author }}{% else %}{{ site.author }}{% endif %}</a>
-              on {{ page.date | date: '%B %d, %Y' }} &middot; {% include read_time.html
+            <span class="meta header-center">Posted
+              <a href="#">{% if page.author %} by {{ page.author }}{% else %}{{ site.author }}{% endif %}</a>
+              on {{ page.date | date: '%d %B %Y' }} &middot; {% include read_time.html
               content=page.content %}
+            <br>
+            <span class="meta header-center">{{ page.description }}</span>
             </span>
           </div>
         </div>

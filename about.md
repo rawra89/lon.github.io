@@ -6,12 +6,7 @@ permalink: /about/
 
 ## What is the League of Nations?
 
-The League of Nations is an intergovernmental organisation that strives for world peace. After the World War, many countries were left weakened and found it difficult to transition back to peace time operations. Drafted by President Woodrow Wilson, Lord Robert Cecil, and Jan Smuts, the [Covenant of the League of Nations](/post/1920/02/01/covenant-of-lon.html), signed as part of the Treaty of Versailles, would eventually establish the League of Nations. 
-
-## What do we stand for?
-
-We believe in world peace, and the end of all wars 
-
+We are an international assembly that strive to prevent future wars, promotes diplomatic cooperation, and ensures collective security among nations. It serves as a congregation for nations to assist in solving disputes, cooperate on international issues, and maintain world peace. The [Covenant of the League of Nations](/post/1920/02/01/covenant-of-lon.html), signed as part of the Treaty of Versailles in 1919, would eventually establish the League of Nations. 
 
 <h2 class="header-center">Important People</h2>
 <hr>

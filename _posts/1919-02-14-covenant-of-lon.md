@@ -3,7 +3,7 @@ layout: post
 title:  "The Covenant of the League of Nations"
 date:   1920-02-01 12:45:22 -0400
 categories: post
-description: ""
+description: "Last updated 16 December 1935"
 ---
 
 ## THE HIGH CONTRACTING PARTIES,
