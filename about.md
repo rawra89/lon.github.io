@@ -19,19 +19,19 @@ We are an international assembly that strive to prevent future wars, promotes di
 
 <div class="figure-block">
     <h3 class="figure-title">Lord Robert Cecil</h3>
-    <img class="figure-image" src="/assets/img/posts/about/Robert_Cecil,_1st_Viscount_Cecil_of_Chelwood_circa_1915.jpg" title="Lord Robert Cecil" alt="Lord Robert Cecil portrait"/>
+    <img class="figure-image" src="{{ "/assets/img/posts/about/Robert_Cecil,_1st_Viscount_Cecil_of_Chelwood_circa_1915.jpg" | relative_url }}" title="Lord Robert Cecil" alt="Lord Robert Cecil portrait"/>
     <p class="figure-desc">One of the drafters for the Covenent of the League of Nations, as well as a propenent for the League of Nations.</p>
 </div>
 
 <div class="figure-block">
     <h3 class="figure-title">Jan Smuts</h3>
-    <img class="figure-image" src="/assets/img/posts/about/JC_Smuts.jpg" title="Jan Smuts" alt="Jan Smuts portrait"/>
+    <img class="figure-image" src="{{ "/assets/img/posts/about/JC_Smuts.jpg" | relative_url }}" title="Jan Smuts" alt="Jan Smuts portrait"/>
     <p class="figure-desc">One of the drafters for the Covenent of the League of Nations.</p>
 </div>
 
 <div class="figure-block">
     <h3 class="figure-title">Eric Drummond, 7th Earl of Perth</h3>
-    <img class="figure-image" src="/assets/img/posts/about/Sir_Eric_Drummond_c-1918.jpg" title="Eric Drummond, 7th Earl of Perth" alt="Eric Drummond, 7th Earl of Perth portrait"/>
+    <img class="figure-image" src="{{ "/assets/img/posts/about/Sir_Eric_Drummond_c-1918.jpg" |  relative_url }}" title="Eric Drummond, 7th Earl of Perth" alt="Eric Drummond, 7th Earl of Perth portrait"/>
     <p class="figure-desc">Secretary General from 1920 to 1933.</p>
 </div>
 
