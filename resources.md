@@ -6,7 +6,7 @@ layout: page
 title: Resources
 ---
 
-## Work Cited
+## References
 
 The Covenant of the League of Nations:
 United Nations. The Covenant of the League of Nations. 1920. [https://treaties.un.org/doc/source/covenant.pdf](https://treaties.un.org/doc/source/covenant.pdf).
